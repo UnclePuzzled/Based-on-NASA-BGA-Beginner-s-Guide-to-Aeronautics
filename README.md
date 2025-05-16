@@ -2,7 +2,18 @@
 
 ## Download and prepare
 To run the program, you need the my-jre folder, which is located in the archive of the Apps folder.  
-Download the Apps folder, unzip it, and add the program folders to it.
+Download the Apps folder, unzip it, and add the program folders to it.  
+
+An example:  
+
+Apps/  
+├── my-jre/  
+├── Atmos/  
+│     ├── Atmos.jar  
+│     ├── Atmos.exe  
+│     ├── CHANGES.md  
+|     └── LICENCE 
+
 
 ## Download
 You can download the mono-repository  

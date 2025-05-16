@@ -34,6 +34,6 @@ This repository contains multiple independent applications.
 Each application has its own license located inside its directory.
 
 [![The source code](https://img.shields.io/badge/The--Source--Code-purple)](https://github.com/nasa/BGA)  
-[![Beginner's Guide to Aeronautics website](https://img.shields.io/badge/Beginner's--Guide--to--Aeronautics--website-purple)](https://github.com/nasa/BGA)
+[![Beginner's Guide to Aeronautics website](https://img.shields.io/badge/Beginner's--Guide--to--Aeronautics--website-purple)](https://www.grc.nasa.gov/WWW/K-12/airplane/)
 
 

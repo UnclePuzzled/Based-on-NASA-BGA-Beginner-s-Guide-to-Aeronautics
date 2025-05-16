@@ -12,7 +12,7 @@ Apps/
 │     ├── Atmos.jar  
 │     ├── Atmos.exe  
 │     ├── CHANGES.md  
-|     └── LICENCE 
+│     └── LICENCE 
 
 
 ## Download
@@ -21,7 +21,7 @@ or download each program separately below:
 
 [![Apps](https://img.shields.io/badge/Download--Apps-gray)](https://github.com/UnclePuzzled/Based-on-NASA-BGA-Beginner-s-Guide-to-Aeronautics/blob/main/Apps.zip)  
 
-[![Atmos](https://img.shields.io/badge/Atmos-green)](https://github.com/UnclePuzzled/Based-on-NASA-BGA-Beginner-s-Guide-to-Aeronautics/blob/main/Atmos.zip)  
+[![Atmos](https://img.shields.io/badge/Atmos-green)](https://github.com/UnclePuzzled/Based-on-NASA-BGA-Beginner-s-Guide-to-Aeronautics/blob/main/Apps-folder%20(all%20programms)/Atmos.zip)  
 
 
 

@@ -1,16 +1,16 @@
 # Based-on-NASA-BGA-Beginner-s-Guide-to-Aeronautics
 
 ## Download and prepare
-Each individual program requires the my-jre folder to run, but it does not need to be duplicated for each program.
-You create an Apps folder or other name on your device and add the my-jre folder to it.
-After that, you can add app folders to Apps.
+To run the program, you need the my-jre folder, which is located in the archive of the Apps folder.  
+Download the Apps folder, unzip it, and add the program folders to it.
 
 ## Download
 You can download the mono-repository  
 or download each program separately below:
 
-[![my-jre](https://img.shields.io/badge/my--jre-gray)](https://github.com/nasa/BGA)  
-[![my-jre](https://img.shields.io/badge/my--jre-green)](https://github.com/nasa/BGA)  
+[![Apps](https://img.shields.io/badge/Download--Apps-gray)](https://github.com/UnclePuzzled/Based-on-NASA-BGA-Beginner-s-Guide-to-Aeronautics/blob/main/Apps.zip)  
+
+[![Atmos](https://img.shields.io/badge/Atmos-green)](https://github.com/UnclePuzzled/Based-on-NASA-BGA-Beginner-s-Guide-to-Aeronautics/blob/main/Atmos.zip)  
 
 
 

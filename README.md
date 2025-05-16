@@ -22,8 +22,8 @@ Already ready out of the available: 2.6%
 
 [![Apps](https://img.shields.io/badge/Download--Apps-gray)](https://github.com/UnclePuzzled/Based-on-NASA-BGA-Beginner-s-Guide-to-Aeronautics/blob/main/Apps.zip)  
 
-[![Atmos](https://img.shields.io/badge/Atmos-green)](https://github.com/UnclePuzzled/Based-on-NASA-BGA-Beginner-s-Guide-to-Aeronautics/blob/main/Apps-folder%20(all%20programms)/Atmos.zip)  
-[![CMFlow](https://img.shields.io/badge/CMFlow-green)](https://github.com/UnclePuzzled/Based-on-NASA-BGA-Beginner-s-Guide-to-Aeronautics/blob/main/Apps-folder%20(all%20programms)/CMFlow.zip)
+[![Atmos](https://img.shields.io/badge/Atmos-green)](https://github.com/UnclePuzzled/Based-on-NASA-BGA-Beginner-s-Guide-to-Aeronautics/blob/main/Apps-folder%20(all%20programms)/Atmos.zip) >AtmosModeler Version 1.3e<  
+[![CMFlow](https://img.shields.io/badge/CMFlow-green)](https://github.com/UnclePuzzled/Based-on-NASA-BGA-Beginner-s-Guide-to-Aeronautics/blob/main/Apps-folder%20(all%20programms)/CMFlow.zip) >Compressible Mass Flow Calculator Version 1.2a<
 
 
 
